@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    max-width: 1024px;
+    text-align: center;
+    background-color: Bisque;
+}
+
+p {
+    text-align: left;
+}
+
+#tetons {
+    width: 600px;
+    height: 300px;
+}
